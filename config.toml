@@ -1,4 +1,4 @@
-baseURL = "https://stupefied-newton-2cb9a5.netlify.app/"
+baseURL = "https://soniasportfolio.netlify.app/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Sonia's Personal website"
